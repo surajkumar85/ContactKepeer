@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://surajkumar:kumar123@cluster0.o1vf6.mongodb.net/ContactDb?retryWrites=true&w=majority",
+    "jwtSecret" : "SecretPage"
+}
